@@ -1,0 +1,120 @@
+Persoana are ID-ul 100
+Are functie de conducere
+Angajatul lucreaza in tinichigerie
+Nume Prenume: Raducanu Andrei
+Ani de experienta: 11
+In ultimele 5 luni a reparat 14 masini 18 masini 11 masini 19 masini 15 masini 
+In ultimele 5 luni a lucrat 140 ore 132 ore 144 ore 121 ore 110 ore 
+Angajatul poate repara masinile:BMW Audi Mercedes-Benz Ford, dar este specializat in BMW
+Are salariul 6500 ron
+Angajatul lucreaza la service-ul cu urmatoarele date
+Service-ul se afla pe strada Giurgiului, numarul 110
+Nr tel: 0777077000
+Programul este: 08-20 de luni pana vineri
+Adresa de email a acestui service este: Crazy-wheel@serv.ro
+Clientul este nou
+
+Persoana are ID-ul 103
+Nu are functie de conducere
+Angajatul lucreaza pe partea electrica
+Nume Prenume:  Popescu Ion
+Ani de experienta: 4
+In ultimele 3 luni a reparat 11 masini 19 masini 15 masini 
+In ultimele 3 luni a lucrat 122 ore 110 ore 102 ore 
+Angajatul poate repara masinile:Volkswagen Dacia, dar este specializat in Dacia
+Are salariul 4267 ron
+Angajatul lucreaza la service-ul cu urmatoarele date
+Service-ul se afla pe strada Dorobanti, numarul 57
+Nr tel: 0777077888
+Programul este: 10-18 de luni pana vineri
+Adresa de email a acestui service este: Crazy-wheel5@serv.ro
+Clientul nu este nou
+
+Persoana are ID-ul 102
+Are functie de conducere
+Angajatul lucreaza pe partea electrica
+Nume Prenume:  Raducanu Andrei-Cosmin
+Ani de experienta: 11
+In ultimele 5 luni a reparat 14 masini 18 masini 11 masini 19 masini 60 masini 
+In ultimele 5 luni a lucrat 140 ore 132 ore 144 ore 121 ore 2 ore 
+Angajatul poate repara masinile:BMW Audi Mercedes-Benz Ford, dar este specializat in BMW
+Are salariul 6500 ron
+Angajatul lucreaza la service-ul cu urmatoarele date
+Service-ul se afla pe strada Giurgiului, numarul 110
+Nr tel: 0777077000
+Programul este: 08-20 de luni pana vineri
+Adresa de email a acestui service este: Crazy-wheel@serv.ro
+Clientul este nou
+
+Persoana are ID-ul 101
+Nu are functie de conducere
+Angajatul lucreaza pe partea electrica
+Nume Prenume:  Popescu Ion
+Ani de experienta: 4
+In ultimele 3 luni a reparat 11 masini 19 masini 15 masini 
+In ultimele 3 luni a lucrat 122 ore 110 ore 102 ore 
+Angajatul poate repara masinile:Volkswagen Dacia, dar este specializat in Dacia
+Are salariul 3500 ron
+Angajatul lucreaza la service-ul cu urmatoarele date
+Service-ul se afla pe strada Dorobanti, numarul 57
+Nr tel: 0777077888
+Programul este: 09-16 de luni pana vineri
+Adresa de email a acestui service este: Crazy-wheel5@serv.ro
+Clientul nu este nou
+
+Piesa se numeste  Cutie de viteze si ati cerut un numar de 1 piesa
+Pe stoc se afla in acest moment 5 piese
+Clientul nu este fidel
+Pretul pentru aceasta piesa este: 3500
+Manopera pentru aceasta piesa este in valoare de: 2000 lei.
+
+Piesa se numeste Bujie si ati cerut un numar de 3 piese
+Pe stoc se afla in acest moment 6 piese
+Clientul este fidel
+Pretul pentru aceasta piesa este: 1500
+Manopera pentru aceasta piesa este in valoare de: 2000 lei.
+
+Piesa se numeste  Ambreiaj si ati cerut un numar de 1 piesa
+Pe stoc se afla in acest moment 5 piese
+Clientul nu este fidel
+Pretul pentru aceasta piesa este: 600
+Manopera pentru aceasta piesa este in valoare de: 200 lei.
+
+Piesa se numeste  Cutie de viteze si ati cerut un numar de 2 piese
+Pe stoc se afla in acest moment 4 piese
+Clientul este fidel
+Pretul pentru aceasta piesa este: 4000
+Manopera pentru aceasta piesa este in valoare de: 2500 lei.
+
+	1	Service-ul se afla pe strada Oltenitei, numarul 22
+Nr tel: 0788880077
+Programul este: 09-18 de luni pana vineri
+Adresa de email a acestui service este: BestService@CrazyWheel.ro
+Clientul nu este nou
+	2	Service-ul se afla pe strada Vacaresti, numarul 7
+Nr tel: 0778880077
+Programul este: 09-19 de luni pana vineri
+Adresa de email a acestui service este: BestService@Crazy1Wheel.ro
+Clientul este nou
+	3	Service-ul se afla pe strada Toporasi, numarul 61
+Nr tel: 0777700077
+Programul este: 10-18 de luni pana vineri
+Adresa de email a acestui service este: BestService@CrazyWheel1.ro
+Clientul nu este nou
+
+
+Masina pe care doriti sa o programati la service este marca Tesla
+Vreti sa o programati pentru partea electrica in data de 24/05/2021 la ora 14:00
+Are 5000 cmc si 10000 km rulati
+Masina a fost programata
+
+Masinile pe care doriti sa le programati la service sunt marcile BMW, Audi.
+Vreti sa programati BMW la tinichigerie in data de 23/05/2021 la ora 13:00
+
+Vreti sa programati Audi la tinichigerie in data de 23/05/2021 la ora 13:00
+
+BMW are 2000 cmc si are 170000 km
+Audi are 3000 cmc si are 40000 km
+
+Masinile au fost programate
+
